@@ -2,7 +2,7 @@
   "expo": {
     "name": "Sangjin Voice AI",
     "slug": "sangjin-voice-ai",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "scheme": "sangjinvoiceai",
@@ -11,7 +11,7 @@
     ],
     "android": {
       "package": "com.sangjin.voiceai",
-      "versionCode": 10,
+      "versionCode": 12,
       "permissions": [
         "RECORD_AUDIO",
         "INTERNET",
@@ -38,3 +38,5 @@
     }
   }
 }
+
+
